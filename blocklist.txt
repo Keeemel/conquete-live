@@ -1,0 +1,3 @@
+# Mots interdits dans les pseudos lus a voix haute (un par ligne, en minuscules).
+# Un pseudo qui contient un de ces mots est remplace par "un viewer".
+badword

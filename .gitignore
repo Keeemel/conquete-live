@@ -1,0 +1,4 @@
+config.env
+# Local secrets
+/.env.local
+.venv/
